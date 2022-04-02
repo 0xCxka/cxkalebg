@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @cxka
-- 👀 I’m interested in Informatic, Discord Developpement
-- 🌱 I’m currently learning : C sharp, C++, C
-- 💞️ discord.gg/bap
-- 📫 discord : cxka'bap#2222
+![banner](https://imgs.search.brave.com/AHf5_-2JJJCx3QyCxl4XtGoJOcGw_Zc78rq98ipHd8Q/rs:fit:500:282:1/g:ce/aHR0cHM6Ly82Ni5t/ZWRpYS50dW1ibHIu/Y29tLzM1ODk4NTNj/ZTJiYWU4MmUxNzhj/ZmUwOTBlZmRlZjA2/L3R1bWJscl9veHFm/cW1vVmo1MXU5eHF0/c28xXzUwMC5naWY.gif) 
 
-<!---
-cxkalebg/cxkalebg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Discord Learning DEV
+ ```python
+ CxkaLeBg = "Learning Dev"
+ ```
