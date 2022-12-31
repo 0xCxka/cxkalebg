@@ -1,6 +1,7 @@
-![banner](https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif) 
 
 <h3 align="center">French Developer / Graphic Designer</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxkalebg&show_icons=true&theme=dark)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cxkalebg&label=Profile%20views&color=0e75b6&style=flat" alt="cxkalebg" /> </p>
 
