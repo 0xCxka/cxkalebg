@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/cxkalefake" target="blank"><img src="https://img.shields.io/twitter/follow/cxkalefake?logo=twitter&style=for-the-badge" alt="cxkalefake" /></a> </p>
 
-- 🎓 I’m currently working on [Cloud Project](https://discord.gg/jU3cHdY3fR)
+- 🎓 I’m currently working on [WTF Services](https://discord.gg/jU3cHdY3fR)
 
-- 💻 I’m currently learning **C++**
+- 💻 I’m currently learning **C++/C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
