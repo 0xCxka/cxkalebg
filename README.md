@@ -1,6 +1,6 @@
 ![banner](https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif) 
 
-<h3 align="center">French Young Developer / Graphic Designer</h3>
+<h3 align="center">French Developer / Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cxkalebg&label=Profile%20views&color=0e75b6&style=flat" alt="cxkalebg" /> </p>
 
